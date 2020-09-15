@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-    return "Subscribe NiNj4HAX in next 3 seconds or U get booted offline"
+    return "Invite ZeroMusic, a verified music bot. https://bit.ly/InviteZeroMusic"
 
 def run():
     app.run(host="0.0.0.0", port=8080)
