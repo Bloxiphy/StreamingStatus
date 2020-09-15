@@ -5,7 +5,7 @@
 
 __Reselling of the code is not allowed, although, using it for self-purposes is. This is OPEN SOURCE!__
 
-**The self-bot works on [repl.it](https://repl.it/) or [Heroku](https://heroku.com/) and can be hosted 24/7 using [UptimeRobot](https://uptimerobot.com).
+**The self-bot works on [repl.it](https://repl.it/) or [Heroku](https://heroku.com/) and can be hosted 24/7 using [UptimeRobot](https://uptimerobot.com).**
 
 **Add your user token in the `.env` file and replace it with `user_token_here`**
 
